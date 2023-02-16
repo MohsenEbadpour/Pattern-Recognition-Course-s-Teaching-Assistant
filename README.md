@@ -10,3 +10,6 @@ List of covered topics in Homeworks based on course plane:
 
 - Homework #3
 > Density Estimation, Non-Parametric Methods, Kernel Density Estimation, Smoothing Parameter (Bandwidth), Classification Problem, Regression Problem, K-Nearest Neighbors, Cross Validation, Leave-One-Out, Image Segmentation, Support Vector Machine, Kernel Trick, Principal Component Analysis (PCA), Dimension Reduction, Orientation Detection, Image Binarize
+
+- Homework #4
+> Unsupervised Learning, Clustering Problem, K-Means Clustering, K-Median, K-Medoids, Hierarchical Clustering, Single-Linkage, Complete Linkage, Dendrogram, Vector Quantisation, Color Extraction, Image Segmentation, Image Compression, Text Clustering, Jaccard Distance
