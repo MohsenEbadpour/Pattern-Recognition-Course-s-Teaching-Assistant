@@ -1,5 +1,7 @@
 # Pattern Recognition Course's Teaching Assistant
-In the fall of 2022, I was the teaching assistant for the Pattern Recognition course held at **[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)** by **[Prof. Rahmati](https://scholar.google.com/citations?user=EYk7M80AAAAJ&hl=en)**. My responsibilities included designing the questions for homeworks and grading. Also, the Language of Homeworks is **English**. 
+In the Fall of 2022 and Fall of 2023, I was the teaching assistant for the Pattern Recognition course held at **[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)** by **[Prof. Rahmati](https://scholar.google.com/citations?user=EYk7M80AAAAJ&hl=en)**. My responsibilities included designing the questions for homeworks and grading. Also, the Language of Homeworks is **English**. 
+
+<!--
 List of covered topics in Homeworks based on course plan: 
 
 - Homework #1
@@ -13,3 +15,5 @@ List of covered topics in Homeworks based on course plan:
 
 - Homework #4
 > Unsupervised Learning, Clustering Problem, K-Means Clustering, K-Median, K-Medoids, Hierarchical Clustering, Single-Linkage, Complete Linkage, Dendrogram, Vector Quantisation, Color Extraction, Image Segmentation, Image Compression, Text Clustering, Jaccard Distance
+
+-->
